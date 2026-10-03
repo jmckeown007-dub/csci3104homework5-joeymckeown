@@ -1,7 +1,7 @@
 # csci3104homework5-joeymckeown
 Here are the python program, array text files, and png file to see solution to question one on homework five
 
-==
+
 Also included is the requirements.txt file to pip install into a virtual environment 
 ==
 
